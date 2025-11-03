@@ -68,7 +68,7 @@ body::before {
   left: 0;
   right: 0;
   height: 65%;
-  background: url("../assets/img/bg-main.jpg") center top / cover no-repeat;
+  background: url("assets/img/bg-main.jpg") center top / cover no-repeat;
   z-index: 0;
   mask-image: linear-gradient(to bottom, black 50%, transparent 100%);
   -webkit-mask-image: linear-gradient(to bottom, black 50%, transparent 100%);
